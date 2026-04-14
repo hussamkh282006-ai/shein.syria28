@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <!-- Amazon background -->
+  <rect width="200" height="120" fill="#FF9900" rx="10"/>
+  
+  <!-- Amazon text and smile logo -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">A</text>
+  
+  <!-- Smile curve -->
+  <path d="M 120 45 Q 150 45 150 65" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
